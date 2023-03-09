@@ -1,5 +1,6 @@
-## Hi, my name is Chinasaram'Okwu 
-**[LinkedIn](https:www.linkedin.com/in/chinasaramokwu-okafor)**  
+## Hi, my name is Chinasaram'Okwu 👋
+
+
   
 
  

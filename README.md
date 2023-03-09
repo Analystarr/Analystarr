@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, my name is Chinasaram'Okwu 
+**[LinkedIn](https:www.linkedin.com/in/chinasaramokwu-okafor)**  
+  
 
-<!--
-**Analystarr/Analystarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+**I am an Actuarial Analyst!!**
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I am curently relearning data analytics with focus on project/process documentation and automation
+- 👯 I’m looking to collaborate with data analysts and other praticing professionals in the data space
+- 🤔 I will need help with automated proccesses
+- 💬 2023/2024 Goals: Build AI-driven analysis and reports
+- ⚡ Fun fact: I love people but I love my space 
+
+
